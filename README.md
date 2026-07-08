@@ -2,6 +2,8 @@
 
 Estimate your **FIRE (Financial Independence, Retire Early)** target and receive personalized AI-powered financial insights.
 
+---
+
 ## Features
 
 * 📊 Calculate your FIRE corpus
@@ -10,12 +12,16 @@ Estimate your **FIRE (Financial Independence, Retire Early)** target and receive
 * 🎯 Track your FIRE progress
 * 🤖 Get personalized AI coaching with Qwen3-0.6B
 
+---
+
 ## Tech Stack
 
 * Python
 * Gradio
 * Transformers
 * Qwen3-0.6B
+
+---
 
 ## Run Locally
 
@@ -32,7 +38,24 @@ The app will be available at:
 ```
 http://127.0.0.1:7860
 ```
+---
 
 ## Disclaimer
 
 This project is for educational purposes only and does not constitute financial advice.
+
+---
+
+## Try it
+
+**[Click here](https://huggingface.co/spaces/nharshavardhana/FIRE)**
+
+---
+
+## 🖼️ App Screenshots
+
+| Input | Output | 
+|-------------|---------------|
+| ![Input](docs/Input.png) | ![Output](docs/Result.png) |
+
+---
